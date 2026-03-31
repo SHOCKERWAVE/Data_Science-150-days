@@ -11,7 +11,7 @@ Learned:
 
 # Day 2 — Python Lists & Tuples
 Learned:
-- List = flexible container (can add, remove, change)
+- List = flexible container [can add, remove, change]
 - Tuple = fixed container (cannot change)
 
 
