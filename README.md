@@ -70,3 +70,73 @@ Learned:
 Learned:
 - reshape = change array shape without changing data
 - slicing = extract parts of array
+
+
+# Day 11 — Pandas Series & DataFrames
+Learned:
+- Series = one column (1D)
+- DataFrame = full table (2D)
+- Access rows/columns using index
+
+
+# Day 12 — Data Cleaning with Pandas
+Learned:
+- drop_duplicates() = remove duplicate rows
+- fillna() / dropna() = handle missing values
+- rename() = change column names
+- astype() = change data types
+
+
+# Day 13 — Handling Missing Values
+Learned:
+- isnull() / notnull() = detect missing values
+- fillna() = replace missing values
+- dropna() = remove missing values
+
+
+# Day 14 — Matplotlib Basic
+Learned:
+- Line plot = show trends
+- Bar plot = compare categories
+- Customization with colors, markers, titles
+
+
+# Day 15 — Seaborn Plots
+Learned:
+- Histogram = distribution of values
+- Scatter plot = relationship between two variables
+- Seaborn makes plots more attractive and easier
+
+
+# Day 16 — Probability Basics
+Learned:
+- Probability = favorable outcomes / total outcomes
+- Range: 0 (impossible) to 1 (certain)
+
+
+# Day 17 — Statistics Basics
+Learned:
+- Mean = average
+- Median = middle value
+- Mode = most frequent value
+
+
+# Day 18 — Standard Deviation & Variance
+Learned:
+- Variance = average squared distance from mean
+- Standard Deviation = square root of variance
+- Both measure spread of data
+
+
+# Day 19 — Probability Distributions
+Learned:
+- Normal distribution = bell curve, most values near mean
+- Binomial distribution = success/failure repeated trials
+
+
+# Day 20 — Linear Algebra Basics
+Learned:
+- Vector = 1D array
+- Matrix = 2D array
+- Operations: addition, multiplication, dot product
+- Transpose and identity matrix
