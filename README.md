@@ -134,9 +134,10 @@ Learned:
 - Binomial distribution = success/failure repeated trials
 
 
-# Day 20 — Linear Algebra Basics
+# Day 20 — Hypothesis Testing Basics
 Learned:
-- Vector = 1D array
-- Matrix = 2D array
-- Operations: addition, multiplication, dot product
-- Transpose and identity matrix
+- Null hypothesis (H0) vs Alternative hypothesis (H1)
+- p-value and significance level (α)
+- One-sample t-test using scipy
+
+
