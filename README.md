@@ -128,10 +128,11 @@ Learned:
 - Both measure spread of data
 
 
-# Day 19 — Probability Distributions
+# Day 19 — Normal Distribution
 Learned:
-- Normal distribution = bell curve, most values near mean
-- Binomial distribution = success/failure repeated trials
+- Normal distribution = bell curve
+- Mean = Median = Mode
+- Spread controlled by standard deviation
 
 
 # Day 20 — Hypothesis Testing Basics
