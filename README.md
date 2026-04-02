@@ -171,3 +171,10 @@ Learned:
 - GROUP BY → group rows by column
 - Aggregate functions (AVG, SUM, COUNT)
 - HAVING → filter groups after aggregation
+
+
+# Day 25 — SQL Practice Project
+Learned:
+- Combined SELECT, WHERE, ORDER BY, JOIN, GROUP BY, HAVING
+- Built queries on employees + departments tables
+- Practiced filtering, sorting, grouping, and aggregation
