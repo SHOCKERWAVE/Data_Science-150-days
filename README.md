@@ -178,3 +178,12 @@ Learned:
 - Combined SELECT, WHERE, ORDER BY, JOIN, GROUP BY, HAVING
 - Built queries on employees + departments tables
 - Practiced filtering, sorting, grouping, and aggregation
+
+
+# Day 26 — GitHub Basics
+Learned:
+- Installed and configured Git
+- Created first GitHub repository
+- Cloned repo locally
+
+
