@@ -201,3 +201,9 @@ Learned:
 - Recruiter tips: keep it short, clear, and visual
 
 
+# Day 29 — Organize Folders for Projects
+Learned:
+- Each project/day should have its own folder
+- Standard format: DayXXX_Topic
+- Inside each folder: notebook, dataset, README
+- Group folders by phase for recruiter clarity
