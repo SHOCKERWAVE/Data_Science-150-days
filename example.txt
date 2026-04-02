@@ -1,2 +1,0 @@
-Hello, this is Day 8!
-Adding another line.
