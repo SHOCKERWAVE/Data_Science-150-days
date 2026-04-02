@@ -207,3 +207,9 @@ Learned:
 - Standard format: DayXXX_Topic
 - Inside each folder: notebook, dataset, README
 - Group folders by phase for recruiter clarity
+
+
+# Day 30 — Upload First Mini Project
+Learned:
+- Organized project files into folders
+- Staged, committed, and pushed project to GitHub
