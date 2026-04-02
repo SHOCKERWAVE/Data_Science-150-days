@@ -164,3 +164,10 @@ Learned:
 - LEFT JOIN → all rows from left table
 - RIGHT JOIN → all rows from right table (simulated in SQLite)
 - FULL OUTER JOIN → union of left + right joins
+
+
+# Day 24 — SQL GROUP BY & HAVING
+Learned:
+- GROUP BY → group rows by column
+- Aggregate functions (AVG, SUM, COUNT)
+- HAVING → filter groups after aggregation
