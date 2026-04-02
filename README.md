@@ -142,3 +142,19 @@ Learned:
 - One-sample t-test using scipy
 
 
+# Day 21 — SQL SELECT Queries
+Learned:
+- SELECT * → fetch all columns
+- SELECT column → fetch specific columns
+- AS → rename columns
+- DISTINCT → remove duplicates
+- LIMIT → restrict rows
+
+
+# Day 22 — SQL WHERE & ORDER BY
+Learned:
+- WHERE → filter rows by condition
+- ORDER BY ASC → sort ascending
+- ORDER BY DESC → sort descending
+
+
