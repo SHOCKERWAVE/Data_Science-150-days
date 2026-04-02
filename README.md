@@ -187,3 +187,8 @@ Learned:
 - Cloned repo locally
 
 
+# Day 27 — Commit & Push Workflow
+Learned:
+- git add → stage changes
+- git commit → save changes locally
+- git push → upload changes to GitHub
