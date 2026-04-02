@@ -192,3 +192,12 @@ Learned:
 - git add → stage changes
 - git commit → save changes locally
 - git push → upload changes to GitHub
+
+
+# Day 28 — README.md Writing
+Learned:
+- README is the front page of a project
+- Basic structure: Title, Overview, Features, Usage, Results
+- Recruiter tips: keep it short, clear, and visual
+
+
