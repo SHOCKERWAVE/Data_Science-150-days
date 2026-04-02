@@ -158,3 +158,9 @@ Learned:
 - ORDER BY DESC → sort descending
 
 
+# Day 23 — SQL JOINs
+Learned:
+- INNER JOIN → matching rows from both tables
+- LEFT JOIN → all rows from left table
+- RIGHT JOIN → all rows from right table (simulated in SQLite)
+- FULL OUTER JOIN → union of left + right joins
