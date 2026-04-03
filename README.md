@@ -233,3 +233,10 @@ Learned:
 - Layman analogy: "Salary increases steadily with experience"
 
 
+# Day 33 — Logistic Regression Theory
+Learned:
+- Logistic regression predicts categorical outcomes (Yes/No)
+- Uses sigmoid function to output probabilities
+- Assumptions: categorical dependent variable, independence, no multicollinearity
+- Advantages: interpretable, probability-based
+- Limitations: linear boundaries, sensitive to outliers
