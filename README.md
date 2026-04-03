@@ -213,3 +213,12 @@ Learned:
 Learned:
 - Organized project files into folders
 - Staged, committed, and pushed project to GitHub
+
+
+# Day 31 — Linear Regression Theory
+Learned:
+- Linear regression models relationship between X and Y
+- Equation: Y = β0 + β1X + ε
+- Assumptions: linearity, independence, homoscedasticity, normality
+- Advantages: simple, interpretable
+- Limitations: fails for non-linear data, sensitive to outliers
