@@ -217,8 +217,10 @@ Learned:
 
 # Day 31 — Linear Regression Theory
 Learned:
-- Linear regression models relationship between X and Y
+- Linear regression finds the best straight line through data
 - Equation: Y = β0 + β1X + ε
-- Assumptions: linearity, independence, homoscedasticity, normality
+- Assumptions: linearity, independence, equal variance, normality
 - Advantages: simple, interpretable
 - Limitations: fails for non-linear data, sensitive to outliers
+
+
