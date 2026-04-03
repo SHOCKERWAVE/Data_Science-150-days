@@ -240,3 +240,23 @@ Learned:
 - Assumptions: categorical dependent variable, independence, no multicollinearity
 - Advantages: interpretable, probability-based
 - Limitations: linear boundaries, sensitive to outliers
+
+
+# Day 34 — Logistic Regression Coding
+Learned:
+- Implemented logistic regression using scikit-learn
+- Visualized data with scatter plot
+- Model outputs probabilities (0–1) using sigmoid curve
+- Made predictions for pass/fail classification
+- Layman analogy: "More study hours → higher chance of passing"
+
+
+# Day 35 — Titanic Survival Prediction Project
+Learned:
+- Applied logistic regression on Titanic dataset
+- Converted categorical features to numeric
+- Trained model and evaluated accuracy
+- Predicted survival outcomes based on passenger details
+- Layman analogy: "Model guesses who had better survival chances"
+
+
