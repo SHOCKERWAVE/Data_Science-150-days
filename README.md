@@ -269,3 +269,12 @@ Learned:
 - Limitations: overfitting, sensitive to data changes
 
 
+# Day 37 — Decision Tree Coding
+Learned:
+- Implemented decision tree classifier using sklearn
+- Visualized tree with branching rules
+- Evaluated accuracy
+- Made predictions for pass/fail outcomes
+- Layman analogy: "Tree asks questions step by step until it decides"
+
+
