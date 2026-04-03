@@ -287,3 +287,10 @@ Learned:
 - Layman analogy: "Trust the majority opinion instead of one person"
 
 
+# Day 39 — Random Forest Coding
+Learned:
+- Implemented Random Forest classifier using sklearn
+- Trained multiple trees and combined predictions
+- Evaluated accuracy
+- Checked feature importance
+- Layman analogy: "Ask 100 friends and trust the majority opinion"
