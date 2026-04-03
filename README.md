@@ -278,3 +278,12 @@ Learned:
 - Layman analogy: "Tree asks questions step by step until it decides"
 
 
+# Day 38 — Random Forest Theory
+Learned:
+- Random Forest = many decision trees combined
+- Uses bootstrap sampling + random feature selection
+- Advantages: reduces overfitting, robust, accurate
+- Limitations: slower, less interpretable
+- Layman analogy: "Trust the majority opinion instead of one person"
+
+
