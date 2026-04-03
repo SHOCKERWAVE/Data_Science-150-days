@@ -260,3 +260,12 @@ Learned:
 - Layman analogy: "Model guesses who had better survival chances"
 
 
+# Day 36 — Decision Tree Theory
+Learned:
+- Decision tree = flowchart of decisions
+- Structure: root, branches, leaves
+- Splitting criteria: Gini, Entropy, Variance
+- Advantages: simple, interpretable
+- Limitations: overfitting, sensitive to data changes
+
+
