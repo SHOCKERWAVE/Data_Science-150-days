@@ -224,3 +224,12 @@ Learned:
 - Limitations: fails for non-linear data, sensitive to outliers
 
 
+# Day 32 — Linear Regression Coding
+Learned:
+- Used sklearn to implement linear regression
+- Visualized data with scatter plot
+- Model learned slope + intercept
+- Made predictions and plotted regression line
+- Layman analogy: "Salary increases steadily with experience"
+
+
