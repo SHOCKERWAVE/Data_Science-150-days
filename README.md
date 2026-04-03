@@ -294,3 +294,13 @@ Learned:
 - Evaluated accuracy
 - Checked feature importance
 - Layman analogy: "Ask 100 friends and trust the majority opinion"
+
+
+# Day 40 — Classification Mini Project
+Learned:
+- Applied Logistic Regression, Decision Tree, and Random Forest on Iris dataset
+- Compared model accuracies
+- Visualized predictions and performance
+- Layman analogy: "Three experts classify flowers, we check who is most accurate"
+
+
