@@ -304,3 +304,87 @@ Learned:
 - Layman analogy: "Three experts classify flowers, we check who is most accurate"
 
 
+# Day 41 — K-Means Clustering Theory
+Learned:
+- K-Means groups data into clusters without labels
+- Steps: choose K, assign points, update centroids
+- Uses Euclidean distance for closeness
+- Advantages: simple, fast, scalable
+- Limitations: must choose K, sensitive to outliers
+- Applications: customer segmentation, image compression
+
+
+# Day 42 — K-Means Clustering Coding
+
+Learned:
+- Implemented K-Means clustering using sklearn
+- Grouped customers by income and spending score
+- Visualized clusters with centroids
+- Layman analogy: "Customers grouped like friends with similar habits"
+
+
+# Day 43 — Customer Segmentation Project
+Learned:
+- Applied K-Means clustering for customer segmentation
+- Grouped customers by income and spending score
+- Visualized clusters with centroids
+- Business insight: identify budget, average, and premium shoppers
+
+
+# Day 44 — DBSCAN Theory
+Learned:
+- DBSCAN groups dense points and marks outliers
+- Parameters: eps (distance), min_samples (neighbors)
+- Types of points: core, border, noise
+- Advantages: arbitrary shapes, outlier detection, no need for K
+- Limitations: sensitive to parameters, struggles with varying densities
+- Applications: fraud detection, anomaly detection, image segmentation
+
+
+# Day 45 — DBSCAN Coding
+Learned:
+- Implemented DBSCAN clustering using sklearn
+- Grouped customers by density of points
+- Visualized clusters and detected outliers
+- Layman analogy: "Groups at a party, loners marked as outliers"
+
+
+# Day 46 — DBSCAN Project
+Learned:
+- Applied DBSCAN clustering on transaction dataset
+- Detected dense clusters and flagged anomalies
+- Visualized spending patterns and outliers
+- Business insight: identify suspicious transactions for fraud detection
+
+
+# Day 47 — Ensemble Methods Theory
+Learned:
+- Ensemble methods combine multiple models for stronger predictions
+- Types: Bagging, Boosting, Stacking
+- Advantages: accuracy, less overfitting
+- Limitations: expensive, harder to interpret
+- Applications: fraud detection, credit scoring, medical diagnosis
+
+
+# Day 48 — Bagging Coding
+Learned:
+- Implemented Bagging using sklearn
+- Compared single Decision Tree vs Bagging ensemble
+- Bagging improves accuracy by combining multiple models
+- Layman analogy: "Ask many trees, take a vote"
+
+
+# Day 49 — Boosting Coding
+Learned:
+- Implemented AdaBoost and Gradient Boosting using sklearn
+- Compared boosting methods on Iris dataset
+- Boosting improves accuracy by correcting errors step by step
+- Layman analogy: "Each new teacher fixes mistakes of the previous one"
+
+
+# Day 50 — Ensemble Project
+Learned:
+- Applied Bagging, AdaBoost, and Gradient Boosting on Iris dataset
+- Compared ensemble methods vs single models
+- Bagging = parallel voting, Boosting = sequential correction
+- Ensemble methods improve accuracy and robustness
