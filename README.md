@@ -1,4 +1,4 @@
-                                                                    150 Day Data Science + Generative AI Roadmap
+                                                                     Data Science + Generative AI Roadmap
 
 
 
