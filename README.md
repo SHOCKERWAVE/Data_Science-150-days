@@ -388,3 +388,77 @@ Learned:
 - Compared ensemble methods vs single models
 - Bagging = parallel voting, Boosting = sequential correction
 - Ensemble methods improve accuracy and robustness
+
+
+# Day 51 — Accuracy, Precision, Recall
+Learned:
+- Accuracy = overall correctness
+- Precision = correctness of positive predictions
+- Recall = ability to find all positives
+- Layman analogies: exam scores, disease detection
+
+
+# Day 52 — F1 Score & Confusion Matrix
+Learned:
+- F1 Score balances precision and recall
+- Confusion Matrix shows TP, FP, TN, FN
+- Layman analogies: balanced report card, scoreboard of predictions
+
+
+# Day 53 — ROC Curve & AUC
+
+Learned:
+- ROC Curve shows trade-off between sensitivity and false alarms
+- AUC measures overall classification ability
+- Layman analogy: smoke detector sensitivity vs accuracy
+
+
+# Day 54 — Cross Validation
+Learned:
+- Cross validation = multiple train/test splits for reliable evaluation
+- Prevents overfitting and ensures fair comparison
+- Layman analogy: multiple exams for fairness
+
+
+# Day 55 — Model Evaluation Project
+Learned:
+- Combined metrics: Accuracy, Precision, Recall, F1, ROC, AUC
+- Compared Decision Tree vs Logistic Regression
+- Used cross validation for fair evaluation
+- Layman analogies: exams, scorecards, false alarms vs detections
+
+
+# Day 56 — Feature Scaling
+Learned:
+- Feature scaling ensures fair comparison between features
+- Methods: Min-Max Scaling, Standardization
+- Layman analogy: runners measuring distance in meters vs kilometers
+
+
+# Day 57 — Feature Engineering
+Learned:
+- Feature engineering improves model performance by creating new features
+- Techniques: polynomial, log transform, binning, interaction, date/time
+- Layman analogy: cooking ingredients into a better dish
+
+
+# Day 58 — Handling Categorical Variables
+
+Learned:
+- Categorical variables = non-numeric data like city, gender
+- Encoding methods: Label Encoding, One-Hot Encoding
+- Layman analogies: roll numbers for students, separate attendance sheets
+
+
+# Day 59 — Feature Selection
+Learned:
+- Feature selection = choosing most important features
+- Methods: Filter, Wrapper, Embedded
+- Layman analogy: studying only important exam topics
+
+
+# Day 60 — Feature Engineering Mini Project
+Learned:
+- Applied feature selection (Chi-Square), scaling, and Logistic Regression
+- Accuracy improved with clean, meaningful features
+- Layman analogies: exam topics, runners on same track
