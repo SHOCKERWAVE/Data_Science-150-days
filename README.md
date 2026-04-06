@@ -489,3 +489,29 @@ Learned:
 - Layman analogy: charts = report cards showing hidden patterns
 
 
+# Day 64 — Telecom Churn Classification Models
+Learned:
+- Trained Logistic Regression, Decision Tree, Random Forest
+- Converted categorical data into numeric
+- Split dataset into train/test
+- Compared model accuracies
+- Layman analogy: three teachers grading the same exam
+
+
+# Day 65 — Telecom Churn Model Evaluation
+Learned:
+- Evaluated Logistic Regression, Decision Tree, Random Forest
+- Used precision, recall, F1 score, confusion matrix, ROC curve
+- Found Random Forest usually performs best
+- Layman analogy: evaluation = detailed report card, not just total marks
+
+
+# Day 66 — Power BI Basics
+Learned:
+- Installed and opened Power BI Desktop
+- Loaded churn dataset into Power BI
+- Explored data view and verified columns
+- Created first visuals: churn distribution, monthly charges, tenure
+- Layman analogy: Power BI = digital notice board for charts
+
+
