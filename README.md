@@ -462,3 +462,30 @@ Learned:
 - Applied feature selection (Chi-Square), scaling, and Logistic Regression
 - Accuracy improved with clean, meaningful features
 - Layman analogies: exam topics, runners on same track
+
+
+# Day 61 — Telecom Churn Dataset Intro
+Learned:
+- Churn = customers leaving service
+- Dataset includes demographics, usage, contracts, churn label
+- Explored dataset basics: head, info, missing values, churn rate
+- Layman analogy: gym members cancelling membership
+
+
+# Day 62 — Telecom Churn Data Cleaning
+Learned:
+- Handled missing values (especially TotalCharges)
+- Converted Yes/No columns into numeric
+- Applied one-hot encoding for categorical variables
+- Verified cleaned dataset
+- Layman analogy: fixing exam papers before grading
+
+
+# Day 63 — Telecom Churn EDA
+Learned:
+- Visualized churn distribution
+- Explored tenure, monthly charges, contract type vs churn
+- Found patterns: short tenure and high monthly charges linked to churn
+- Layman analogy: charts = report cards showing hidden patterns
+
+
