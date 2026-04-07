@@ -508,10 +508,14 @@ Learned:
 
 # Day 66 — Power BI Basics
 Learned:
-- Installed and opened Power BI Desktop
-- Loaded churn dataset into Power BI
-- Explored data view and verified columns
-- Created first visuals: churn distribution, monthly charges, tenure
-- Layman analogy: Power BI = digital notice board for charts
+- Opened Power BI Desktop
+- Loaded churn dataset
+- Checked columns in Data View
+- Made charts:
+  - Churn distribution
+  - MonthlyCharges
+  - Tenure
+  - Contract type
+- Layman analogy: Power BI = notice board for charts
 
 
