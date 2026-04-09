@@ -519,3 +519,24 @@ Learned:
 - Layman analogy: Power BI = notice board for charts
 
 
+# Day 67 — Telecom Churn Dashboard
+Learned:
+- Opened Day 66 file with churn visuals
+- Arranged all charts on one dashboard page:
+  - Churn distribution
+  - MonthlyCharges
+  - Tenure
+  - Contract type
+- Added standard slicers:
+  - Contract
+  - InternetService
+  - Gender
+  - SeniorCitizen
+- Used Format (paint roller) pane:
+  - Column color for single-series charts
+  - Data colors / Series for multi-series charts (after adding Legend)
+- Set consistent colors:
+  - Churn Yes = Red
+  - Churn No = Green
+- Added a simple dashboard title
+-Layman analogy:Dashboard = a decorated notice board where charts are pinned neatly,  and slicers act like checkboxes to filter information instantly.
