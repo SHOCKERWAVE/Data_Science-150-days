@@ -557,3 +557,22 @@ Learned:
 - Layman analogy: KPIs are like sticky notes with big numbers pinned at the top of the notice board, so anyone can see the most important stats instantly.
 
 
+# Day 69 — Finalize Churn Project
+Learned:
+- Opened Day 68 KPI dashboard
+- Cleaned visuals:
+  • Aligned charts and cards
+  • Standardized fonts and colors
+  • Removed duplicate legends and repetitive field names
+  • Renamed chart titles
+- Polished slicers:
+  • Consistent formatting
+  • Clear titles for filters
+- Added final touches:
+  • Footer text box
+  • Logo image
+  • Neat layout: KPIs on top, charts in middle, slicers on side, footer at bottom
+- Saved final project file for GitHub upload
+- Layman analogy: Finalizing the dashboard is like tidying your room before guests arrive — everything looks neat, balanced, and professional.
+
+
