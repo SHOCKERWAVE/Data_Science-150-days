@@ -539,4 +539,21 @@ Learned:
   - Churn Yes = Red
   - Churn No = Green
 - Added a simple dashboard title
--Layman analogy:Dashboard = a decorated notice board where charts are pinned neatly,  and slicers act like checkboxes to filter information instantly.
+-Layman analogy: Dashboard = a decorated notice board where charts are pinned neatly,  and slicers act like checkboxes to filter information instantly.
+
+
+# Day 68 — Add KPIs to Dashboard
+Learned:
+- Opened Day 67 dashboard
+- Decided KPIs:
+  • Total Customers
+  • Churned Customers
+  • Churn Rate (%)
+  • Avg Monthly Charges
+- Created KPI cards using Card visual
+- Wrote DAX measure for Churn Rate with correct table reference
+- Formatted KPI cards with clear titles and colors
+- Placed KPIs at the top of the dashboard
+- Layman analogy: KPIs are like sticky notes with big numbers pinned at the top of the notice board, so anyone can see the most important stats instantly.
+
+
