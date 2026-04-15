@@ -661,3 +661,15 @@ Layman comments:
 - GradientTape is like TensorFlow taking notes so it can compute gradients later.
 
 
+# Day 77 — Keras Basics
+Learned:
+- What Keras is and why it simplifies deep learning
+- How to build models using the Sequential API
+- How to compile and train a model
+- How layers, activations, and optimizers work together
+Layman comments:
+- Keras is a shortcut for building neural networks.
+- You describe the layers; Keras handles the math.
+- Training is like practicing: guess → check → correct → improve.
+
+
