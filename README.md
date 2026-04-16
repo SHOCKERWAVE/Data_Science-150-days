@@ -600,3 +600,16 @@ Layman comments:
 - Learning = correcting mistakes after feedback.
 
 
+# Day 72 — Activation Functions
+Learned:
+- What activation functions are
+- Why they are needed (non-linearity, decision making)
+- Common types: Sigmoid, ReLU, Tanh
+- How they affect neuron outputs
+Layman comments:
+- Activation = deciding if an idea is worth sharing.
+- Sigmoid = "I’m somewhat sure."
+- ReLU = "I’ll only speak if positive."
+- Tanh = "I can agree or disagree strongly."
+
+
