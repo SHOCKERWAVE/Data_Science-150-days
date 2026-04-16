@@ -589,87 +589,14 @@ Files:
 
 # Day 71 — Neural Network Basics
 Learned:
-- Neural networks mimic the human brain using interconnected neurons
-- Structure: Input → Hidden → Output
-- Weights, biases, and activation functions control learning
-- Training adjusts weights using learning rules like backpropagation
+- What a neural network is
+- Structure: input, hidden, output layers
+- Concepts: weights, bias, activation, learning
 Layman comments:
-- Input layer = senses
-- Hidden layers = students passing and editing notes
-- Weights = knobs controlling influence
-- Activation = rule deciding if a neuron speaks
-- Training = practice where mistakes are corrected
-
-
-# Day 72 — Activation Functions
-Learned:
-- Why activation functions are essential for non-linearity
-- How Sigmoid, Tanh, ReLU, and Leaky ReLU behave
-- When to use each activation function
-Layman comments:
-- Sigmoid turns any score into a probability.
-- Tanh gives balanced negative and positive outputs.
-- ReLU passes only positive values — fast and effective.
-- Leaky ReLU prevents neurons from going silent.
-
-
-# Day 73 — Forward Propagation
-Learned:
-- How data flows through a neural network
-- The formula: z = W·X + b, a = activation(z)
-- How hidden layers transform inputs step by step
-- How the final output is produced
-Layman comments:
-- Forward propagation is like passing a note through students.
-- Each student edits the note using their own rules (weights + bias).
-- The final student announces the answer (output).
-
-
-# Day 74 — Backpropagation
-Learned:
-- How neural networks learn by adjusting weights
-- The chain rule behind gradient calculation
-- Manual backpropagation for a 1-hidden-layer network
-- Why backpropagation is essential for training
-Layman comments:
-- Backpropagation is like passing blame backward through students.
-- Each student adjusts their behavior (weights) to improve next time.
-- The network learns by repeating this correction process many times.
-
-
-# Day 75 — Optimizers (SGD, Momentum, Adam)
-Learned:
-- How optimizers update weights during training
-- Why SGD is simple but slow
-- How Momentum speeds up learning
-- Why Adam is the most widely used optimizer
-Layman comments:
-- SGD = walking downhill step-by-step.
-- Momentum = rolling a ball downhill (faster, smoother).
-- Adam = smart student who adjusts step size automatically.
-
-
-# Day 76 — TensorFlow Basics
-Learned:
-- What tensors are (scalars, vectors, matrices, multi-dimensional arrays)
-- How to create tensors in TensorFlow
-- Basic TensorFlow math operations
-- How automatic differentiation works using GradientTape
-Layman comments:
-- A tensor is just a container for numbers.
-- TensorFlow is a super calculator that uses GPU for speed.
-- GradientTape is like TensorFlow taking notes so it can compute gradients later.
-
-
-# Day 77 — Keras Basics
-Learned:
-- What Keras is and why it simplifies deep learning
-- How to build models using the Sequential API
-- How to compile and train a model
-- How layers, activations, and optimizers work together
-Layman comments:
-- Keras is a shortcut for building neural networks.
-- You describe the layers; Keras handles the math.
-- Training is like practicing: guess → check → correct → improve.
+- Neural network = group of students solving a problem.
+- Weights = trust in ideas.
+- Bias = extra hint.
+- Activation = deciding if the idea is strong enough.
+- Learning = correcting mistakes after feedback.
 
 
