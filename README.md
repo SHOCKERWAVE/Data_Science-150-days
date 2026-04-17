@@ -613,3 +613,12 @@ Files:
 - Tanh = "I can agree or disagree strongly."
 
 
+# Day 73 — Forward Propagation
+Learned:
+- How data flows through a neural network
+- Steps: input → weights + bias → activation → output
+Layman analogy:
+- Forward propagation = relay race of data.
+- Each layer adds effort (weights + bias).
+- Activation = coach deciding if the runner continues.
+- Output = final prediction at the finish line.
