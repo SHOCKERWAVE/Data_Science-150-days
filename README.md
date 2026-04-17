@@ -706,3 +706,15 @@ Layman comments:
 - Layers = parts of the robot.
 - Training = practice sessions.
 - Evaluation = checking how well it learned.
+
+
+# Day 79 — Train Neural Network on Dataset
+
+Learned:
+- How to train a neural network on a real dataset
+- Steps: load → split → build → train → evaluate
+
+Layman comments:
+- Training = practice sessions with real questions.
+- Testing = exam with unseen questions.
+- Accuracy = student’s score after learning.
