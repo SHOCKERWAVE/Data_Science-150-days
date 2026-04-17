@@ -718,3 +718,17 @@ Layman comments:
 - Training = practice sessions with real questions.
 - Testing = exam with unseen questions.
 - Accuracy = student’s score after learning.
+
+
+# Day 80 — Evaluate Neural Networks
+
+Learned:
+- How to evaluate a trained neural network
+- Metrics: loss, accuracy, confusion matrix
+- How to visualize training progress with curves
+
+Layman comments:
+- Evaluation = checking student’s report card.
+- Loss = mistakes.
+- Accuracy = score.
+- Confusion matrix = detailed subject-wise performance.
