@@ -588,11 +588,11 @@ Files:
 
 
 # Day 71 — Neural Network Basics
-Learned:
+- Learned:
  - What a neural network is
  - Structure: input, hidden, output layers
  - Concepts: weights, bias, activation, learning
-Layman analogy:
+- Layman analogy:
  - Neural network = group of students solving a problem.
  - Weights = trust in ideas.
  - Bias = extra hint.
@@ -601,12 +601,12 @@ Layman analogy:
 
 
 # Day 72 — Activation Functions
-Learned:
+- Learned:
  - What activation functions are
  - Why they are needed (non-linearity, decision making)
  - Common types: Sigmoid, ReLU, Tanh
  - How they affect neuron outputs
-Layman analogy:
+- Layman analogy:
  - Activation = deciding if an idea is worth sharing.
  - Sigmoid = "I’m somewhat sure."
  - ReLU = "I’ll only speak if positive."
@@ -614,10 +614,10 @@ Layman analogy:
 
 
 # Day 73 — Forward Propagation
-Learned:
+- Learned:
  - How data flows through a neural network
  - Steps: input → weights + bias → activation → output
-Layman analogy:
+- Layman analogy:
  - Forward propagation = relay race of data.
  - Each layer adds effort (weights + bias).
  - Activation = coach deciding if the runner continues.
@@ -625,10 +625,10 @@ Layman analogy:
 
 
 # Day 74 — Backpropagation
- Learned:
+- Learned:
  - What backpropagation is
  - Steps: forward pass → error → backward pass → weight update
- Layman analogy:
+- Layman analogy:
  - Backpropagation = teacher correcting a student’s mistakes.
  - Error goes backward to fix earlier steps.
  - Weights are adjusted so the network learns better next time.
