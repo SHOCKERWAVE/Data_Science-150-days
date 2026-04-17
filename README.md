@@ -592,7 +592,7 @@ Files:
 - What a neural network is
 - Structure: input, hidden, output layers
 - Concepts: weights, bias, activation, learning
- Layman analogy:
+- Layman analogy:
 - Neural network = group of students solving a problem.
 - Weights = trust in ideas.
 - Bias = extra hint.
@@ -601,12 +601,12 @@ Files:
 
 
 # Day 72 — Activation Functions
-Learned:
+- Learned:
 - What activation functions are
 - Why they are needed (non-linearity, decision making)
 - Common types: Sigmoid, ReLU, Tanh
 - How they affect neuron outputs
- Layman analogy:
+- Layman analogy:
 - Activation = deciding if an idea is worth sharing.
 - Sigmoid = "I’m somewhat sure."
 - ReLU = "I’ll only speak if positive."
