@@ -679,3 +679,30 @@ Learned:
 Layman comments:
 - TensorFlow = toolbox for building robots (neural networks).
 - You assemble parts (layers, optimizers) instead of making everything from scratch.
+
+
+# Day 77 — Keras Basics
+
+Learned:
+- What Keras is
+- Why it’s useful (easy, beginner-friendly)
+- How to build a simple model
+- How to train a model on data
+
+Layman comments:
+- Keras = Lego kit for neural networks.
+- You stack blocks (layers) to build models.
+- Training = practice sessions for the robot to improve.
+
+
+# Day 78 — Build a Simple Neural Network
+
+Learned:
+- How to build a simple NN with Keras
+- Steps: define → compile → train → evaluate
+
+Layman comments:
+- Neural network = small robot/student.
+- Layers = parts of the robot.
+- Training = practice sessions.
+- Evaluation = checking how well it learned.
