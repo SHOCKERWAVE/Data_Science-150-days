@@ -632,3 +632,17 @@ Files:
  - Backpropagation = teacher correcting a student’s mistakes.
  - Error goes backward to fix earlier steps.
  - Weights are adjusted so the network learns better next time.
+
+
+# Day 75 — Optimizers (SGD, Adam)
+
+Learned:
+- What optimizers are
+- Why they are needed (efficient learning, faster error reduction)
+- Common types: SGD and Adam
+- How to use them in Keras
+
+Layman analogy:
+- Optimizer = study strategy for the network.
+- SGD = slow and steady corrections.
+- Adam = quick learner using memory of past mistakes.
