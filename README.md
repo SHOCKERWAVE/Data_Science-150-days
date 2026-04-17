@@ -625,10 +625,10 @@ Layman analogy:
 
 
 # Day 74 — Backpropagation
-- Learned:
+ Learned:
  - What backpropagation is
  - Steps: forward pass → error → backward pass → weight update
-- Layman analogy:
+ Layman analogy:
  - Backpropagation = teacher correcting a student’s mistakes.
  - Error goes backward to fix earlier steps.
  - Weights are adjusted so the network learns better next time.
