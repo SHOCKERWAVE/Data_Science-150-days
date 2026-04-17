@@ -668,3 +668,14 @@ Layman comments:
 - Optimizer = study strategy for the network.
 - SGD = slow and steady corrections.
 - Adam = quick learner using memory of past mistakes.
+
+
+# Day 76 — TensorFlow Basics
+
+Learned:
+- What TensorFlow is
+- Why it’s useful for deep learning
+
+Layman comments:
+- TensorFlow = toolbox for building robots (neural networks).
+- You assemble parts (layers, optimizers) instead of making everything from scratch.
