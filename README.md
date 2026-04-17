@@ -622,3 +622,14 @@ Layman analogy:
 - Each layer adds effort (weights + bias).
 - Activation = coach deciding if the runner continues.
 - Output = final prediction at the finish line.
+
+
+# Day 74 — Backpropagation
+Learned:
+- What backpropagation is
+- Steps: forward pass → error → backward pass → weight update
+
+Layman comments:
+- Backpropagation = teacher correcting a student’s mistakes.
+- Error goes backward to fix earlier steps.
+- Weights are adjusted so the network learns better next time.
