@@ -588,47 +588,47 @@ Files:
 
 
 # Day 71 — Neural Network Basics
- Learned:
-- What a neural network is
-- Structure: input, hidden, output layers
-- Concepts: weights, bias, activation, learning
-- Layman analogy:
-- Neural network = group of students solving a problem.
-- Weights = trust in ideas.
-- Bias = extra hint.
-- Activation = deciding if the idea is strong enough.
-- Learning = correcting mistakes after feedback.
+Learned:
+ - What a neural network is
+ - Structure: input, hidden, output layers
+ - Concepts: weights, bias, activation, learning
+Layman analogy:
+ - Neural network = group of students solving a problem.
+ - Weights = trust in ideas.
+ - Bias = extra hint.
+ - Activation = deciding if the idea is strong enough.
+ - Learning = correcting mistakes after feedback.
 
 
 # Day 72 — Activation Functions
-- Learned:
-- What activation functions are
-- Why they are needed (non-linearity, decision making)
-- Common types: Sigmoid, ReLU, Tanh
-- How they affect neuron outputs
-- Layman analogy:
-- Activation = deciding if an idea is worth sharing.
-- Sigmoid = "I’m somewhat sure."
-- ReLU = "I’ll only speak if positive."
-- Tanh = "I can agree or disagree strongly."
+Learned:
+ - What activation functions are
+ - Why they are needed (non-linearity, decision making)
+ - Common types: Sigmoid, ReLU, Tanh
+ - How they affect neuron outputs
+Layman analogy:
+ - Activation = deciding if an idea is worth sharing.
+ - Sigmoid = "I’m somewhat sure."
+ - ReLU = "I’ll only speak if positive."
+ - Tanh = "I can agree or disagree strongly."
 
 
 # Day 73 — Forward Propagation
 Learned:
-- How data flows through a neural network
-- Steps: input → weights + bias → activation → output
+ - How data flows through a neural network
+ - Steps: input → weights + bias → activation → output
 Layman analogy:
-- Forward propagation = relay race of data.
-- Each layer adds effort (weights + bias).
-- Activation = coach deciding if the runner continues.
-- Output = final prediction at the finish line.
+ - Forward propagation = relay race of data.
+ - Each layer adds effort (weights + bias).
+ - Activation = coach deciding if the runner continues.
+ - Output = final prediction at the finish line.
 
 
 # Day 74 — Backpropagation
 Learned:
-- What backpropagation is
-- Steps: forward pass → error → backward pass → weight update
+ - What backpropagation is
+ - Steps: forward pass → error → backward pass → weight update
 Layman analogy:
-- Backpropagation = teacher correcting a student’s mistakes.
-- Error goes backward to fix earlier steps.
-- Weights are adjusted so the network learns better next time.
+ - Backpropagation = teacher correcting a student’s mistakes.
+ - Error goes backward to fix earlier steps.
+ - Weights are adjusted so the network learns better next time.
