@@ -753,10 +753,22 @@ Layman comments:
 Learned:
 - How to build a neural network for image classification
 - Steps: load → preprocess → build → compile
-- Used MNIST dataset (handwritten digits)
 
 Layman comments:
 - MNIST classifier = robot learning to read handwriting.
 - Flatten = scanning the page.
 - Hidden = thinking process.
 - Output = final decision (digit).
+
+
+# Day 83 — Train MNIST Classifier
+
+Learned:
+- How to train a neural network on MNIST dataset
+- Steps: feed data → predict → compare → adjust → repeat
+- Visualized training progress with accuracy curves
+
+Layman comments:
+- Training = student practicing with thousands of handwriting samples.
+- Epochs = number of practice rounds.
+- Validation = checking with new questions to ensure real learning.
