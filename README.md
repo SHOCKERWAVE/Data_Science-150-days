@@ -732,3 +732,17 @@ Layman comments:
 - Loss = mistakes.
 - Accuracy = score.
 - Confusion matrix = detailed subject-wise performance.
+
+
+# Day 81 — MNIST Dataset Intro
+
+Learned:
+- What MNIST dataset is (handwritten digits 0–9)
+- Why it’s important for deep learning practice
+- How to load and visualize sample digits
+
+Layman comments:
+- MNIST = school exam of handwriting digits.
+- Training set = practice notebook.
+- Testing set = exam notebook.
+- Neural network = robot learning to read handwriting.
