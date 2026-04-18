@@ -746,3 +746,17 @@ Layman comments:
 - Training set = practice notebook.
 - Testing set = exam notebook.
 - Neural network = robot learning to read handwriting.
+
+
+# Day 82 — Build MNIST Classifier
+
+Learned:
+- How to build a neural network for image classification
+- Steps: load → preprocess → build → compile
+- Used MNIST dataset (handwritten digits)
+
+Layman comments:
+- MNIST classifier = robot learning to read handwriting.
+- Flatten = scanning the page.
+- Hidden = thinking process.
+- Output = final decision (digit).
