@@ -813,3 +813,54 @@ Layman comments:
 - Attention = highlighting important words.
 - Faster and smarter than older methods (RNNs).
 
+
+# Day 87 — Embeddings
+
+Learned:
+- What embeddings are
+- Why they are important for NLP
+- How to create embeddings in Keras
+
+Layman comments:
+- Embeddings = barcodes for words.
+- Similar words → similar barcodes.
+- Helps the robot understand meaning, not just memorize.
+
+
+# Day 88 — Attention Mechanism
+
+Learned:
+- What attention is
+- Why it’s important for transformers
+- Simple example using Keras Attention layer
+
+Layman comments:
+- Attention = student’s highlighter in notes.
+- Helps focus on key words instead of treating all equally.
+- Foundation of modern NLP models.
+
+
+# Day 89 — Text Generation Basics
+
+Learned:
+- How text generation works
+- Steps: tokenize → sequence → train → predict
+- Built a simple LSTM model for next-word prediction
+
+Layman comments:
+- Text generation = student writing essay word by word.
+- Model predicts next word based on context.
+- Repeating predictions creates full sentences.
+
+
+# Day 90 — Build a Text Generator
+
+Learned:
+- How to build a text generator model
+- Steps: tokenize → sequence → train → generate
+- Implemented next-word prediction with LSTM
+
+Layman comments:
+- Text generator = robot storyteller.
+- Predicts next word based on context.
+- Repeats predictions to form sentences.
