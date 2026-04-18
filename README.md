@@ -772,3 +772,17 @@ Layman comments:
 - Training = student practicing with thousands of handwriting samples.
 - Epochs = number of practice rounds.
 - Validation = checking with new questions to ensure real learning.
+
+
+# Day 84 — Evaluate MNIST Classifier
+
+Learned:
+- How to evaluate MNIST classifier performance
+- Metrics: loss, accuracy, confusion matrix
+- Tested model on unseen data
+
+Layman comments:
+- Evaluation = student’s exam results.
+- Loss = mistakes.
+- Accuracy = score.
+- Confusion matrix = detailed report card showing strengths and weaknesses.
