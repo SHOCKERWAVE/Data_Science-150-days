@@ -796,6 +796,20 @@ Learned:
 - Git workflow: add → commit → push
 
 Layman comments:
-- GitHub = online showcase.
+- GitHub = online showcase for recruiters.
 - README = cover page of your assignment.
 - Uploading = submitting your work for review.
+
+
+# Day 86 — Transformers Basics
+
+Learned:
+- What transformers are
+- Key features: self-attention, parallel processing
+- Simple transformer block in Keras
+
+Layman comments:
+- Transformer = student reading whole page at once.
+- Attention = highlighting important words.
+- Faster and smarter than older methods (RNNs).
+
