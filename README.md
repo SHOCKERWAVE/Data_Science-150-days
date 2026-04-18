@@ -786,3 +786,16 @@ Layman comments:
 - Loss = mistakes.
 - Accuracy = score.
 - Confusion matrix = detailed report card showing strengths and weaknesses.
+
+
+# Day 85 — Upload MNIST Project to GitHub
+
+Learned:
+- How to organize and upload a project to GitHub
+- Importance of README documentation
+- Git workflow: add → commit → push
+
+Layman comments:
+- GitHub = online showcase.
+- README = cover page of your assignment.
+- Uploading = submitting your work for review.
