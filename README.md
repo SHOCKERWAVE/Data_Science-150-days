@@ -864,3 +864,16 @@ Layman comments:
 - Text generator = robot storyteller.
 - Predicts next word based on context.
 - Repeats predictions to form sentences.
+
+
+# Day 91 — Train Text Generator
+
+Learned:
+- How to train text generator on larger corpus
+- Importance of more epochs and bigger datasets
+- Generated text from seed phrases
+
+Layman comments:
+- Robot storyteller improves with more books.
+- Longer practice = better storytelling.
+- Seed phrase = starting point for generated text.
